@@ -3,7 +3,7 @@ import { defineConfig } from 'vite';
 import react from '@vitejs/plugin-react';
 
 // 请确保这里和你的 GitHub 仓库名完全一致（区分大小写）
-const REPO_NAME = 'cantonese-learner';
+const REPO_NAME = 'canton';
 
 export default defineConfig({
   plugins: [react()],
